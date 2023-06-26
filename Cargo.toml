@@ -18,7 +18,7 @@ ark-r1cs-std = { version = "0.4.0", default-features = false, optional = true }
 [dependencies.ark-bn254]
 package = "ark-bn254-mixed-radix"
 git = "https://github.com/FindoraNetwork/ark-bn254-mixed-radix"
-tag = "v0.4.0"
+tag = "v0.4.1"
 default-features = false
 features = ['scalar_field']
 
